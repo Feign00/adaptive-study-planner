@@ -1,0 +1,8 @@
+**/profile.local.md
+**/state.local.md
+**/*.private.*
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store

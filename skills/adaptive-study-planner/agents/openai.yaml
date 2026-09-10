@@ -1,0 +1,4 @@
+interface:
+  display_name: "动态学习调度"
+  short_description: "按课程、精力与掌握程度安排高数、英语和计算机，处理提前完成与超时"
+  default_prompt: "使用 $adaptive-study-planner，根据我的当前课程、学习进度和可用时间安排下一天，并写清提前完成和超时后的下一步。"
